@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to New GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/myahia2000/3orodegy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
