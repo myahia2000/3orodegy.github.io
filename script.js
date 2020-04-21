@@ -14,5 +14,7 @@ $('#chicago').hide();
 $('#chicago').css({
   // serves a random image from this collection on Unsplash.com
   //'background-image' : 'url(https://source.unsplash.com/collection/495468/1600x900)'
-     'background-image' : 'url(https://source.unsplash.com/collection/137627)'
+   //  'background-image' : 'url(https://source.unsplash.com/collection/137627)'
+     'background-image' : 'url(https://source.unsplash.com/1600x900/?nature)'
+   
 }).fadeIn(1500);
