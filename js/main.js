@@ -3,7 +3,7 @@ $(document).ready(function(){
     $("#jquery_jplayer_1").jPlayer({
         ready: function () {
             $(this).jPlayer("setMedia", {
-                mp3: "http://stream.radiojar.com/q8g59w2g7tzuv",
+                mp3: "http://stream.radiojar.com/wa0yc40f2wzuv",
             }).jPlayer("play"); // auto play
         },
         ended: function (event) {
