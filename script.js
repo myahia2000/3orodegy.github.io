@@ -8,7 +8,7 @@ setInterval(function() {
 }, refreshRate);
 
 // Hide the images on load
-//$('#chicago').hide();
+$('#chicago').hide();
 
 // Get a random image from Unsplash and fade it in on load
 $('#chicago').css({
