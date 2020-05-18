@@ -17,4 +17,4 @@ $('#chicago').css({
    //  'background-image' : 'url(https://source.unsplash.com/collection/137627)'
      'background-image' : 'url(https://source.unsplash.com/1600x900/?nature,china,building)'
    
-}).fadeIn(1500);
+}).fadeIn(00);
