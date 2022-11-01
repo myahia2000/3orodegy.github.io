@@ -1,0 +1,22 @@
+{
+  "type": "multipleChoice",
+  "question": "Json can be read using java script?",
+  "answers": [
+    {
+      "correct": "yes",
+      "value": "1"
+    },
+    {
+      "correct": "no",
+      "value": "2"
+    },
+    {
+      "correct": "no",
+      "value": "3"
+    },
+    {
+      "correct": "no",
+      "value": "4"
+    }
+  ]
+}
